@@ -1,7 +1,7 @@
 # oci_openshift_installer
 Install RedHat OpenShift 4.9 on Oracle Cloud Infrastructure
 
-Please Note that you should use Oracle Cloud Shell to execute this TF script. And make sure to have ssh key pairs on your cloud shell environment or use ssh-keygen command to generate key pairs.
+Please Note that you should use Oracle Cloud Shell to execute this TF script. And make sure to have ssh key pairs on your cloud shell environment or use ssh-keygen command to generate key pairs. Provided *terraform.tfvars* file is an example only. You should fill it with your values and Live ISO image on OpenShift Assisted Installer Wizard. 
 
 This installer is compatible with https://console.redhat.com/openshift assisted cluster installation method. And you would need to terminate and re-create nodes with preserved boot volumes per each node manually.
 
