@@ -13,5 +13,6 @@ K8s api only exposed to internal cluster network and please open it to public in
 
 This script will create sub compartment inside given compartment (just give tenancy id as compartment if you want it under 1 level down) to have clean installation and to make it easy to clean up whenever you are done.
 
+[![Installation Guide](https://img.youtube.com/vi/9njc_7GJIoc/0.jpg)](https://www.youtube.com/watch?v=9njc_7GJIoc)
 You should watch this video https://www.youtube.com/watch?v=9njc_7GJIoc before starting the installation (Sorry for the background sound, had to have that to prevent my eyes getting closed :-D commiting this at 1.21 AM IST on 27th November 2021)
 
