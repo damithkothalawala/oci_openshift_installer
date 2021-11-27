@@ -10,7 +10,7 @@ Or open https://raw.githubusercontent.com/damithkothalawala/oci_openshift_instal
 ![Full Map](https://github.com/damithkothalawala/oci_openshift_installer/raw/main/images/graphviz.svg)
 
 ## Instructions
-Please note that this terraform script is designed to used only with-in **CloudShell** on your Oracle Cloud Account.  And make sure that you have enough privileges to create resources or manage tenancy before executing this script.
+Please note that this terraform script is designed to used only with-in **CloudShell** on your Oracle Cloud Account.  And make sure that you have enough privileges to create resources or manage tenancy before executing this script. `You should have your own Domain` and Point to the Name Servers provided at the end of the `Terraform` script executiom
 
 This installer designed to work with https://console.redhat.com/openshift assisted cluster installation method. And you will have to terminate and re-create nodes with preserved boot volumes per each node manually.
 
