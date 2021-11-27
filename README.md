@@ -15,5 +15,4 @@ This script will create sub compartment inside given compartment (just give tena
 
 [![Installation Guide](https://img.youtube.com/vi/9njc_7GJIoc/0.jpg)](https://www.youtube.com/watch?v=9njc_7GJIoc)
 
-You should watch this video https://www.youtube.com/watch?v=9njc_7GJIoc before starting the installation (Sorry for the background sound, had to have that to prevent my eyes getting closed :-D commiting this at 1.21 AM IST on 27th November 2021)
-
+You should watch this video https://www.youtube.com/watch?v=9njc_7GJIoc before starting the installation
