@@ -1,6 +1,8 @@
 # oci_openshift_installer
 Install RedHat OpenShift 4.9 on Oracle Cloud Infrastructure
 
+Really appreciate PRs and Issue Submission to make this perfect
+
 ## Simplified Diagram 
 ![Simplified Diagram](https://github.com/damithkothalawala/oci_openshift_installer/raw/main/images/simplified.png)
 
